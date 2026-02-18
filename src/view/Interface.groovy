@@ -146,6 +146,7 @@ class Interface {
                 println "Idade: ${c.old}"
                 println "Estado: ${c.state}"
                 println "CEP: ${c.cep}"
+                println "Habilidades: "
                 c.skills.each {s ->
                     println "   ${s}"
                 }
@@ -176,6 +177,7 @@ class Interface {
                 println "País: ${e.country}"
                 println "Estado: ${e.state}"
                 println "CEP: ${e.cep}"
+                println "Habilidades que buscamos: "
                 e.skills.each {s ->
                     println "   ${s}"
                 }
