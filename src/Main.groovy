@@ -1,3 +1,5 @@
+import view.Interface
+
 static void main(String[] args) {
-    println "Hello world!"
+    def cli = Interface
 }
