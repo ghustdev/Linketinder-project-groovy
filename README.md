@@ -4,7 +4,7 @@ MVP de uma plataforma de recrutamento inspirada no conceito de *match* do Tinder
 
 ## Contexto do projeto
 
-Este projeto foi desenvolvido a partir do desafio proposto no **Acelera ZG**: criar uma solução prática para aproximar empresas e candidatos com base em habilidades, reduzindo ruído de relevância social e priorizando aderência técnica.
+Este projeto foi desenvolvido a partir do desafio proposto no **Acelera ZG**: criar uma solução prática para aproximar empresas e candidatos com base em habilidades, reduzindo ruído de relevância social e priorizando aderência técnica. Mas vale também o lado da zoeira kkkk
 
 ## Objetivo do MVP
 
