@@ -12,12 +12,8 @@ class Empresa extends Pessoa {
     String state
     String cep
     List<String> skills = []
+
     // Campos específicos
     String cnpj
     String country
-
-//    @Override
-//    String getId() {
-//        return cnpj
-//    }
 }

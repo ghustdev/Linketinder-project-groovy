@@ -16,9 +16,4 @@ class Candidato extends Pessoa {
     // Campos específicos
     String cpf
     int old
-
-//    @Override
-//    String getId() {
-//        return cpf
-//    }
 }
